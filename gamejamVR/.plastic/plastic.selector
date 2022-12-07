@@ -1,0 +1,4 @@
+repository "GGJ2022@Lookupgamestr@cloud"
+  path "/"
+    br "/main"
+    co "/main"
